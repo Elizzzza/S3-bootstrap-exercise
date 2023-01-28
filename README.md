@@ -16,7 +16,7 @@ the evaluations of the statistics).
 
 
 Generalize the methods `bootstrap` defined above to the case of an argument `stat` that is a function
-that can take additional arguments, e.g. a function that computes the $k$th moment. Test it.
+that can take additional arguments, e.g. a function that computes the $k$ th moment. Test it.
 
 `moment <- function(x, k)
 {
